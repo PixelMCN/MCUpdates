@@ -1,0 +1,5 @@
+nextcord
+requests
+aiohttp
+python-dotenv
+sqlite3
